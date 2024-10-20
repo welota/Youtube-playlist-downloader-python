@@ -12,3 +12,5 @@ First at all, you'll need a PoToken and a Visitor Data: https://github.com/JuanB
 Once you have a PoToken and Visitor Data, copy the URLs of your playlist and paste to the .txt file, use a line for each URL.
 When you have all of your URLs ready, double click de main.py file (you'll need a python interpreter, you can get one from microsoft store) and then the file will ask you where to save the playlist,
 keep in mind that the downloader will save a folder for each playlist, but it will not create a folder for each channel, instead, you'll do it (sorry i did'nt know how to create a folder for every channel).
+
+(by the way, i know there are plenty more effiency projects, but this project its just for make a bigger portfolio)
